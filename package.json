@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "slate-packages",
+  "name": "@247Sports/slate-packages",
   "workspaces": [
     "packages/*"
   ],
