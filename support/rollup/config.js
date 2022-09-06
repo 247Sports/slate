@@ -7,7 +7,7 @@ import slateHtmlSerializer from '../../packages/slate-html-serializer/package.js
 import slateHyperscript from '../../packages/slate-hyperscript/package.json'
 import slatePlainSerializer from '../../packages/slate-plain-serializer/package.json'
 import slatePropTypes from '../../packages/slate-prop-types/package.json'
-import slateReact from '../../packages/slate-react/package.json'
+import slateReact from '../../packages/@247Sports/slate-react/package.json'
 import slateReactPlaceholder from '../../packages/slate-react-placeholder/package.json'
 
 const configurations = [
