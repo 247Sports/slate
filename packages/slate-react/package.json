@@ -1,7 +1,7 @@
 {
-  "name": "slate-react",
+  "name": "@247Sports/slate-react",
   "description": "A set of React components for building completely customizable rich-text editors.",
-  "version": "0.22.9",
+  "version": "0.22.10",
   "license": "MIT",
   "repository": "git://github.com/ianstormtaylor/slate.git",
   "main": "lib/slate-react.js",
@@ -72,5 +72,8 @@
     "text",
     "wysiwyg",
     "wysiwym"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
